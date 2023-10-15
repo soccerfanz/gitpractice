@@ -2,4 +2,4 @@
 
 ## Akin Ajayi
 
-## Github Totorialsgi
+## Github Tutorials
